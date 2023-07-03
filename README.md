@@ -1,8 +1,8 @@
-# @ramonak/react-progress-bar
+# @asyrafhussin/react-progress-bar
 
 > Progress Bar React Component
 
-[![NPM](https://img.shields.io/npm/v/@ramonak/react-progress-bar.svg)](https://www.npmjs.com/package/@ramonak/react-progress-bar) ![npm bundle size](https://img.shields.io/bundlephobia/min/@ramonak/react-progress-bar)![GitHub](https://img.shields.io/github/license/katerinalupacheva/react-progress-bar)![npm](https://img.shields.io/npm/dw/@ramonak/react-progress-bar)
+[![NPM](https://img.shields.io/npm/v/@asyrafhussin/react-progress-bar.svg)](https://www.npmjs.com/package/@asyrafhussin/react-progress-bar) ![npm bundle size](https://img.shields.io/bundlephobia/min/@asyrafhussin/react-progress-bar)![GitHub](https://img.shields.io/github/license/katerinalupacheva/react-progress-bar)![npm](https://img.shields.io/npm/dw/@asyrafhussin/react-progress-bar)
 
 ---
 
@@ -17,7 +17,7 @@
 ## Install
 
 ```bash
-npm install --save @ramonak/react-progress-bar
+npm install --save @asyrafhussin/react-progress-bar
 ```
 
 ## Usage
@@ -25,7 +25,7 @@ npm install --save @ramonak/react-progress-bar
 ```jsx
 import React from "react";
 
-import ProgressBar from "@ramonak/react-progress-bar";
+import ProgressBar from "@asyrafhussin/react-progress-bar";
 
 const Example = () => {
   return <ProgressBar completed={60} />;

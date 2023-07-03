@@ -1,6 +1,7 @@
-import React, { useState, useEffect } from "react";
+import React, { useEffect, useState } from "react";
+
 import CustomizedBar from "./CustomizedBar";
-import ProgressBar from "@ramonak/react-progress-bar";
+import ProgressBar from "@asyrafhussin/react-progress-bar";
 
 const DemoApp = () => {
   const [completed, setCompleted] = useState(0);

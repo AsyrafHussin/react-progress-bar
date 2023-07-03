@@ -1,5 +1,5 @@
 {
-  "name": "@ramonak/react-progress-bar",
+  "name": "@asyrafhussin/react-progress-bar",
   "version": "5.0.3",
   "description": "> Progress Bar React Component",
   "main": "dist/index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KaterinaLupacheva/react-progress-bar.git"
+    "url": "git+https://github.com/AsyrafHussin/react-progress-bar.git"
   },
   "keywords": [
     "react",
@@ -22,12 +22,11 @@
     "progress bar",
     "progress-bar"
   ],
-  "author": "KaterinaLupacheva",
+  "author": "Asyraf Hussin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/KaterinaLupacheva/react-progress-bar/issues"
+    "url": "https://github.com/AsyrafHussin/react-progress-bar/issues"
   },
-  "homepage": "https://katerinalupacheva.github.io/react-progress-bar/",
   "peerDependencies": {
     "react": "^16.0.0 || ^17 || ^18",
     "react-dom": "^16.0.0 || ^17 || ^18"

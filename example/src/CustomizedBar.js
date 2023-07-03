@@ -1,8 +1,9 @@
-import React, { useState, useRef } from "react";
+import "./customizedBar.styles.scss";
+
+import React, { useRef, useState } from "react";
 
 import Parameters from "./Parameters";
-import ProgressBar from "@ramonak/react-progress-bar";
-import "./customizedBar.styles.scss";
+import ProgressBar from "@asyrafhussin/react-progress-bar";
 
 const CustomizedBar = () => {
   const INITIAL_STATE = {
@@ -82,7 +83,7 @@ const CustomizedBar = () => {
   const generateCode = () => {
     setCopySuccess("Copy");
     setShowCode(true);
-    const tempCode = `<ProgressBar 
+    const tempCode = `<ProgressBar
     completed={${state.completed}}
     ${state.bgColor === "#6a1b9a" ? "" : `bgColor="${state.bgColor}"`}
     ${state.height === "20px" ? "" : `height="${state.height}"`}
