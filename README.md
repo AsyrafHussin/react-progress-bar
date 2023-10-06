@@ -133,4 +133,4 @@ import './styles.scss'
 
 ## License
 
-MIT © [KaterinaLupacheva](https://github.com/KaterinaLupacheva)
+MIT © [asyrafhussin](https://github.com/asyrafhussin)
